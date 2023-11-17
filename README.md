@@ -2,4 +2,4 @@
 
 Shiny app to display data from the Australian Securities Exchange (ASX).
 
-The demo app [is hosted at shinyapps.io](https://neilfws.shinyapps.io/asx-dashboard/). 
+Seems to be broken as of November 2023.
